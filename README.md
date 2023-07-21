@@ -18,7 +18,7 @@ It`s a simple project of basic parkour and random structur generator.
 
 This is proposition to improve interface of Pokemon Yellow(1998).
 
-__[Tycoon Energetyczny GDD](Interfejs.pdf)__ 
+__[Tycoon Energetyczny GDD](tycoonenergetycznyGDD.pdf)__ 
 
 Game Design Document that describe economy and ecology. 
 
